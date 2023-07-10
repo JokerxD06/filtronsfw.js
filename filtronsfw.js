@@ -1,0 +1,1 @@
+javascriptCopy code`var filter = new RegExp("\\b(nsfw|porn|sex|porno|adult|pornography|nudity|naked|blowjob|kissing|pornographic|smut|sexual content|sexual material|sexually explicit content|adult content|adult material|adult media|adult material|nudity content|adult imagery|intercourse|anal|intercourse|blowjob|bdsm|kink|licking|masturbation|vagina|penis|sex|nude|nudes|
